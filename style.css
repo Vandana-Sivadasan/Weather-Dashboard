@@ -17,13 +17,6 @@
     
         }
         
-
-       
-         
-         
-  
-       
-       
         table, td, tr {
            font-size: 15px;
            border: 1px solid #ddd;
@@ -38,4 +31,8 @@
       
         td {
         padding: 5px;
+        }
+        h3   {
+            text-align: right;
+            font-size: medium;
         }
