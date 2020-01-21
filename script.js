@@ -12,7 +12,15 @@ const iconElement = document.querySelector(".weather-icon");
 const tempElement = document.querySelector(".temperature-value p");
 const humidityElement = document.querySelector(".humidity-value p")
 
-// Weather Data:
+const weather ={
+
+  temperature : {
+    value : 86.84,
+    unit : "fahrenheit"
+    humidity :43%
+
+  },
+}
 
 
 
